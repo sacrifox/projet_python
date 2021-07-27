@@ -1,0 +1,16 @@
+TP8 ANN mail
+1. Quelle est l'adresse email d'Ann?
+
+2. Quel est le mot de passe de messagerie d’Ann?
+
+3. Quelle est l’adresse email de l’amant secret d’Ann?
+
+4. Quels sont les deux objets qu'Ann a demandé à son amant secret d'apporter ?
+
+5. Quel est le NOM de la pièce jointe envoyée par Ann à son amant secret ?
+
+6. Quel est le MD5 de l'attachement envoyé par Ann à son amant secret ?
+
+7. Dans quelle ville et pays est leur point de rendez-vous?
+
+8. Quelle est la somme MD5 de l'image incorporée dans le document?
